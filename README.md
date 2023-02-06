@@ -1,2 +1,1 @@
-# Curso
-Este es un curso
+Un proyecto de  repositorio
